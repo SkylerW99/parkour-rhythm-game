@@ -1,7 +1,4 @@
-Base path: '/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2020.2.0f1/PlaybackEngines'
+Base path: '/Applications/Unity/Unity.app/Contents', plugins path '/Applications/Unity/PlaybackEngines'
 Cmd: initializeCompiler
-<<<<<<< HEAD
 
 Quitting shader compiler process
-=======
->>>>>>> main
